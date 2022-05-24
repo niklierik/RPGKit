@@ -1,0 +1,6 @@
+name: RPGKit
+version: '${project.version}'
+main: me.fiveship.rpgkit.RPGKit
+api-version: 1.18
+authors: [ FiveShip ]
+description: A package of tools for creating an RPG server. Trying to combine features from many games.
